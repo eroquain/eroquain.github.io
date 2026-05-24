@@ -1,0 +1,175 @@
+---
+title: "Homepage"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![](photo.png){#id .class width=200 height=200px}
+
+### Etienne Roquain
+- Bureau 213 couloir 15-16, 2ème étage
+4, Place Jussieu 75252 PARIS CEDEX 05 FRANCE
+- (+33) 01 44 27 85 09 firstname.name 'at' upmc.fr (firstname $=$ etienne, name $=$ roquain)
+- Maître de conférences HdR (associate professor) at [Sorbonne Université](http://www.sorbonne-universite.fr/) 
+Laboratoire de Probabilités, Statistique et Modélisation ([LPSM](http://www.lpsm.paris/), UMR 8001)
+- Co-direction du [MS2A](http://ms2a.lpsm.paris/)
+- Associate Editor of [JASA](http://www.tandfonline.com/journals/uasa20) (2024-)
+
+|[Research interests](#research-interests)|
+|[Projects](#projects)|
+|[Links](#links)|
+|[Publications](#publications)|
+|[Teaching](#teaching)|
+|[Students](#students)|
+
+
+### Research interests
+
+- Statistics in high dimension
+- False discovery rate (FDR)
+- Selective inference, multiple testing
+- Conformal inference, machine learning
+
+### Projects
+
+- French National program SUN (project TENET)
+- ANR [BACKUP](https://sites.google.com/view/anrbackup/home)
+- ANR [ASCAI](http://sites.google.com/view/prci-ascai/accueil)
+- DFG 446840866
+
+### Links
+
+- [Statistiques, données et algorithmes research team](http://www.lpsm.paris/recherche/les-equipes/%C3%A9quipe-statistique/)
+- [Machine Learning at LPSM](https://ml.lpsm.paris/)
+- [Modélisation aléatoire du vivant research team](http://www.lpsm.paris/pageperso/sbg/)
+- [Groupe de Statistique Mathématique of the SFdS](http://www.sfds.asso.fr/fr/statistique_mathematique/465-statistique_mathematique/)
+
+
+### Teaching
+
+- Responsable du cours de 'Statistique avancée' du [Master 1 de mathématique appliquée de Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications-offre-2025-2026)
+
+- Responsable du cours de 'Statistique avancée' du [MS2A](https://https://ms2a.lpsm.paris/)
+
+- Tous les supports sont disponibles sur [moddle](https://https://moodle-sciences-25.sorbonne-universite.fr/) 
+
+### Students
+
+- 2025/2028 Malo Ruellan "Uncertainty quantification in AI: reaching optimality with neural networks" Supervised with Raphaël Berthier, Gilles Blanchard and Claire Boyer. Funded by AI4IDF.
+
+
+- 2023/2026 Ulysse Gazin "Conformal inference and multiple testing" Supervised with Stephane Boucheron. Funded by ED386.
+
+
+- 2020/2023 Meah Iqraa "Controlling false discovery proportion in structured data sets" Supervised with Sebastian Döhler. Funded by the DFG.
+
+
+- 2020/2023 Marandon Ariane "Contributions to reliable machine learning via false discovery rate
+control" Supervised with Tabea Rebafka and Nataliya Sokolovska. Funded by Dim Math Innov Grant.
+
+
+- 2015/2018 Durand Guillermo "Multiple testing and post hoc bounds for heterogeneous data". Supervised with Pierre Neuvial.    
+
+- 2015/2018 Roux Marine "Graph inference by multiple testing with application to Neuroimaging". Supervised with Sophie Achard, Pierre Borgnat and Irène Gannaz.
+
+### Publications
+
+##### Preprints/Submitted
+- Selecting Informative Conformal Prediction Sets with an Optimized FCR-Controlled Approach. With Israela Solomon, Saharon Rosset and Ruth Heller. [arxiv preprint](https://arxiv.org/abs/2605.22004). 
+
+- Confidence envelopes for the false discoveries with heterogeneous data. With  Romain Périer, Gilles Blanchard, Sebastian Döhler and Guillermo Durand. [arxiv preprint](https://arxiv.org/abs/2604.11812). 
+
+- On min-Storey estimators for multiple testing and conformal novelty detection. With Zijun Gao. [arxiv preprint](https://arxiv.org/abs/2601.02610).
+
+- Conformal novelty detection with false discovery rate control at the boundary. With Zijun Gao and Daniel Xiang. [arxiv preprint](https://arxiv.org/abs/2601.02610).
+
+
+- Online selective conformal inference: adaptive scores, convergence rate and optimality. With Pierre Humbert, Ulysse Gazin, Ruth Heller. [arxiv preprint](https://arxiv.org/abs/2508.10336). [Talk](https://drive.google.com/file/d/195bJgGZJAW_TaLHcrVtEhMxsdSaZoYdq/view?usp=drive_link).
+
+
+
+##### Published/Accepted
+
+[36] False membership rate control in mixture models. With Ariane Marandon, Tabea Rebafka and Nataliya Sokolovska. Scandinavian Journal of Statistics, 2025, 1-47. pdf. [arxiv preprint](http://arxiv.org/abs/2203.02597). 
+
+[35] Powerful batch conformal prediction for classification. With Ulysse Gazin, Ruth Heller and Aldo Solari. AISTAT, 2025. arxiv preprint.
+
+[34] Selecting informative conformal prediction sets with false coverage rate control. With Ulysse Gazin, Ruth Heller and Ariane Marandon. Journal of the Royal Statistical Society: Series B, 2025, qkae120. arxiv preprint. Talk.
+
+[33] False discovery proportion envelopes with consistency. With Iqraa Meah and Gilles Blanchard.  Manuscript. Journal of Machine Learning Research. Vol. 25, 1-52, 2024.
+
+[32] Sharp multiple testing boundary for sparse sequences. With Kweku Abraham and Ismael Castillo. arxiv preprint. Manuscript. Annals of Statistics. Vol. 52, No. 4, 1564-1591, 2024.
+
+[31] Online multiple testing with super-uniformity reward. With Sebastian Döhler and Iqraa Meah. Manuscript.  Electronic Journal of Statistics. Vol. 18, No. 1, 1293-1354, 2024.
+
+[30] Transductive conformal inference with adaptive scores. With Ulysse Gazin and Gilles Blanchard. Manuscript. AISTAT, 2024 (selected for an oral presentation).
+
+[29] Adaptive novelty detection with false discovery rate guarantee. With Ariane Marandon, Lihua Lei and David Mary. arxiv preprint. Talk. Annals of Statistics. Vol. 52, No. 1, 157-183, 2024.
+
+[28] Post hoc false discovery proportion inference under a Hidden Markov Model. With Marie Perrot-Dockès, Gilles Blanchard and Pierre Neuvial. TEST. 2023. Web page. Manuscript. Supplement.  arxiv preprint. Talk.
+
+[27] Semi-supervised multiple testing. With David Mary. Electronic Journal of Statistics. Vol. 16, No. 2, 4926-4981, 2022. Manuscript.
+
+[26] Graph inference with clustering and false discovery rate control. With Tabea Rebafka and Fanny Villers. Electronic Journal of Statistics. Vol. 16, No. 1, 2796–2858, 2022. Manuscript. arxiv preprint. Talk.
+
+[25] Empirical Bayes cumulative ℓ-value multiple testing procedure for sparse sequences. With Kweku Abraham and Ismael Castillo. Electronic Journal of Statistics. Vol. 16, No. 1, 2033-2081, 2022. Manuscript. arxiv preprint.
+
+[24] False discovery rate control with unknown null distribution: is it possible to mimic the oracle? Annals of Statistics. Vol. 50, No. 2, 1095-1123, 2022. With Nicolas Verzelen. Manuscript. arxiv preprint. Vignette. Talk.
+
+[23] Estimating minimum effect with outlier selection. With Alexandra Carpentier, Sylvain Delattre and Nicolas Verzelen.  Annals of Statistics. Vol. 49, No. 1, 272-294, 2021. Manuscript.  arxiv preprint.
+
+[22] Controlling false discovery exceedance for heterogeneous tests. With Sebastian Döhler.
+
+Electronic Journal of Statistics. Vol. 14, No. 2, 4244-4272, 2020. Manuscript.
+
+[21] Post hoc false positive control for structured hypotheses. With Guillermo Durand, Gilles Blanchard and Pierre Neuvial. Scandinavian Journal of Statistics. Vol. 47, 1114-1148, 2020. Manuscript. R-package.
+
+[20] On spike and slab empirical Bayes multiple testing. With Ismaël Castillo. Annals of Statistics. Vol. 48, No. 5, 2548-2574, 2020. Manuscript. Supplement.
+
+[19] Post hoc confidence bounds on false positives using reference families. With Gilles Blanchard and Pierre Neuvial. Annals of Statistics.  Vol. 48, No. 3, 1281-1303, 2020. Manuscript. Supplement. R-package.
+
+(*) Discussion of Covariate‐assisted ranking and screening for large‐scale two‐sample inference. J. R. Stat. Soc. B. Vol. 81, 187-234, by T. Tony Cai, Wenguang Sun and Weinan Wang, 2019. Link
+
+[18] Continuous testing for Poisson process intensities: a new perspective on scanning statistics. Biometrika. Vol. 105, No. 4, 931-944, 2018. With Franck Picard and Patricia Reynaud-Bouret. arxiv preprint.  Link.
+
+[17] New FDR bounds for discrete and heterogeneous tests. Electronic Journal of Statistics. Vol. 12, 1867-1900, 2018. With Sebastian Döhler and Guillermo Durand. Manuscript. R-package.
+
+[16] On empirical distribution function of high-dimensional Gaussian vector components with an application to multiple testing. Bernoulli. Vol. 22 No. 1, 302-324, 2016. With S. Delattre. Manuscript. Supplement.
+
+[15] New procedures controlling the false discovery proportion via Romano-Wolf's heuristic. Annals of Statistics. Vol. 43 No. 3, 1141-1177, 2015. With S. Delattre. Manuscript. Supplement.
+
+[14] Testing over a continuum of null hypotheses with False Discovery Rate control. Bernoulli. Vol. 20 No. 1 304-333, 2014. With G. Blanchard and S. Delattre. Manuscript. Supplement.
+
+[13] On least favorable configurations for step-up-down tests. Statistica Sinica. Vol. 24 No. 1 1-23, 2014. With G. Blanchard, T. Dickhaus and F. Villers. HAL preprint.
+
+[12] On false discovery rate thresholding for classification under sparsity. Annals of Statistics. Vol. 40 No. 5 2572-2600, 2012. With P. Neuvial. Manuscript. Supplement.
+
+[11]  Type I error rate control in multiple testing: a survey with proofs. Journal de la Société Française de Statistique. Vol. 152 No. 2 3-38, 2011. Manuscript.
+
+[10] Exact calculations for false discovery proportion with application to least favorable configurations. Annals of Statistics. Vol. 39 No. 1 584-612, 2011. With F. Villers. Manuscript. Supplement.
+
+[9] On the false discovery proportion convergence under Gaussian equi-correlation. Statistics and Probability Letters.  Vol. 81, No. 1, 111-115, 2011. With S. Delattre. HAL preprint.
+
+[8] Spatial Clustering of Array CGH Features in Combination with Hierarchical Multiple Testing. Statistical Applications in Genetics and Molecular Biology.  Vol. 9, Iss. 1, Article 40, 2010. With K.I. Kim and M.A. van de Wiel. HAL preprint.
+
+[7] Some non-asymptotic results on resampling in high dimension, II: Multiple tests.  Annals of Statistics. Vol. 38 No. 1 83-99, 2010. With S. Arlot and G. Blanchard. Manuscript.
+
+[6] Some non-asymptotic results on resampling in high dimension, I: Confidence regions. Annals of Statistics. Vol. 38 No. 1 51-82, 2010. With S. Arlot and G. Blanchard.  Manuscript.
+
+[5] Adaptive false discovery rate control under independence and dependence. Journal of Machine Learning Research. 10 2837-2871, 2009. With G. Blanchard.  Manuscript. Note.
+
+[4] Optimal weighting for false discovery rate control. Electronic Journal of Statistics. 3 678-711, 2009. With M.-A. van de Wiel. Manuscript. Correction note by G. Durand.
+
+[3] Two simple sufficient conditions for FDR control. Electronic Journal of Statistics. 2 963-992, 2008. With G. Blanchard. Manuscript.
+
+[2] Resampling-based confidence regions and multiple tests for a correlated random vector. Proceedings of the 20th. Conference on Learning Theory (COLT 07), Springer Lecture Notes in Artificial Intelligence (4539), 127-141, 2007. With S. Arlot and G. Blanchard. HAL preprint.
+
+[1] Improved compound Poisson approximation for the number of occurrences of any rare word family in a stationnary Markov Chain. Advances in Applied Probability. 39 128-140, 2007. With S. Schbath. Manuscript.
+
+

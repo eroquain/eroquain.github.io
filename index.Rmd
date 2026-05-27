@@ -93,7 +93,7 @@ control" Supervised with Tabea Rebafka and Nataliya Sokolovska. Funded by [Dim M
 
 - Confidence envelopes for the false discoveries with heterogeneous data. With  Romain Périer, Gilles Blanchard, Sebastian Döhler and Guillermo Durand. [arxiv preprint](https://arxiv.org/abs/2604.11812). 
 
-- On min-Storey estimators for multiple testing and conformal novelty detection. With Zijun Gao. [arxiv preprint](https://arxiv.org/abs/2601.02610).
+- On min-Storey estimators for multiple testing and conformal novelty detection. With Zijun Gao. [arxiv preprint](https://https://arxiv.org/abs/2603.17984).
 
 - Conformal novelty detection with false discovery rate control at the boundary. With Zijun Gao and Daniel Xiang. [arxiv preprint](https://arxiv.org/abs/2601.02610).
 
@@ -121,7 +121,7 @@ control" Supervised with Tabea Rebafka and Nataliya Sokolovska. Funded by [Dim M
 
 [29] Adaptive novelty detection with false discovery rate guarantee. With Ariane Marandon, Lihua Lei and David Mary.  Annals of Statistics. Vol. 52, No. 1, 157-183, 2024. [pdf](MLMR2024_published.pdf). [arxiv preprint](https://arxiv.org/abs/2208.06685). [Talk](https://drive.google.com/file/d/1TmOrlKNT-GRuXDjY5dX-7sNiOXzICC-Q/view).
 
-[28] Selective inference for false discovery proportion inference under a Hidden Markov Model. With Marie Perrot-Dockès, Gilles Blanchard and Pierre Neuvial. TEST. 2023. [Link](https://doi.org/10.1007/s11749-023-00886-7). [pdf](DockesBNR2023_published.pdf). [Supplement](MBR2024_published.pdf). [arxiv preprint](https://arxiv.org/abs/2105.00288). [Talk](https://drive.google.com/file/d/1vZM47q02mlk2hQJryAo123haQuNCyYAK/view?usp=sharing).
+[28] Selective inference for false discovery proportion inference under a Hidden Markov Model. With Marie Perrot-Dockès, Gilles Blanchard and Pierre Neuvial. TEST. 2023. [Link](https://doi.org/10.1007/s11749-023-00886-7). [pdf](DockesBNR2023_published.pdf). [Supplement](DockesBNR2023-supp_published.pdf). [arxiv preprint](https://arxiv.org/abs/2105.00288). [Talk](https://drive.google.com/file/d/1vZM47q02mlk2hQJryAo123haQuNCyYAK/view?usp=sharing).
 
 [27] Semi-supervised multiple testing. With David Mary. Electronic Journal of Statistics. Vol. 16, No. 2, 4926-4981, 2022. [pdf](MR2022_published.pdf).
 
@@ -144,7 +144,7 @@ Electronic Journal of Statistics. Vol. 14, No. 2, 4244-4272, 2020. [pdf](DR2020_
 
 ##### Published/Accepted (-2019)
 
-(*) Discussion of Covariate‐assisted ranking and screening for large‐scale two‐sample inference. J. R. Stat. Soc. B. Vol. 81, 187-234, by T. Tony Cai, Wenguang Sun and Weinan Wang, 2019. [Link](https://doi.org/10.1111/rssb.12304)
+(*) Discussion of Covariate‐assisted ranking and screening for large‐scale two‐sample inference. J. R. Stat. Soc. B. Vol. 81, 187-234, by T. Tony Cai, Wenguang Sun and Weinan Wang, 2019. [pdf](DiscussionRoquain_CARS.pdf).  [Link](https://doi.org/10.1111/rssb.12304)
 
 [18] Continuous testing for Poisson process intensities: a new perspective on scanning statistics. Biometrika. Vol. 105, No. 4, 931-944, 2018. With Franck Picard and Patricia Reynaud-Bouret. [arxiv preprint](https://arxiv.org/abs/1705.08800). [pdf](PRR2018_published.pdf). [Supplement](PRR2018-supp_published.pdf). [Link](https://academic.oup.com/biomet/article/105/4/931/5098629?guestAccessKey=06ded4c4-02c6-4e96-983a-beeda8d40a5c).
 

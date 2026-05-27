@@ -1,9 +1,14 @@
 ---
-title: "Homepage"
+title: "Etienne Roquain's homepage"
 author: ""
 date: ""
 output: html_document
 ---
+<style type="text/css">
+h1.title {
+  font-size: 24px;
+}
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -12,7 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](photo.png){#id .class width=200 height=200px}
 
-### Etienne Roquain
 - Bureau 213 couloir 15-16, 2ème étage
 4, Place Jussieu 75252 PARIS CEDEX 05 FRANCE
 - (+33) 01 44 27 85 09 firstname.name 'at' upmc.fr (firstname $=$ etienne, name $=$ roquain)

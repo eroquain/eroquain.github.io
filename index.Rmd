@@ -36,10 +36,10 @@ Laboratoire de Probabilités, Statistique et Modélisation ([LPSM](http://www.lp
 
 ### Research interests
 
-- Statistics in high dimension
-- False discovery rate (FDR)
-- Selective inference, multiple testing
+- Uncertainty quantification 
 - Conformal inference, machine learning
+- Selective inference, False discovery rate (FDR)
+- Multiple testing, Statistics in high dimension
 
 ### Projects
 

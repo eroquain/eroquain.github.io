@@ -24,6 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Laboratoire de Probabilités, Statistique et Modélisation ([LPSM](http://www.lpsm.paris/), UMR 8001)
 - Co-direction du [MS2A](http://ms2a.lpsm.paris/)
 - Associate Editor of [JASA](http://www.tandfonline.com/journals/uasa20) (2024-)
+- Member of the group [Machine Learning at LPSM](https://ml.lpsm.paris/)
 
 |[Research interests](#research-interests)|
 |[Projects](#projects)|
@@ -61,7 +62,7 @@ Laboratoire de Probabilités, Statistique et Modélisation ([LPSM](http://www.lp
 
 - Responsable du cours de 'Statistique avancée' du [MS2A](https://ms2a.lpsm.paris/)
 
-- Tous les supports sont disponibles sur [moddle](https://https://moodle-sciences-25.sorbonne-universite.fr/) 
+- Tous les supports sont disponibles sur [moodle](https://https://moodle-sciences-25.sorbonne-universite.fr/) 
 
 ### Supervising
 
@@ -106,7 +107,7 @@ control" Supervised with Tabea Rebafka and Nataliya Sokolovska. Funded by [Dim M
 
 
 
-##### Published/Accepted (2020-)
+##### Published/Accepted (2020-now)
 
 [36] False membership rate control in mixture models. With Ariane Marandon, Tabea Rebafka and Nataliya Sokolovska. Scandinavian Journal of Statistics, 2025, 1-47. [pdf](MRRS2025_published.pdf). [arxiv preprint](http://arxiv.org/abs/2203.02597). 
 
@@ -146,7 +147,7 @@ Electronic Journal of Statistics. Vol. 14, No. 2, 4244-4272, 2020. [pdf](DR2020_
 
 [19] Post hoc confidence bounds on false positives using reference families. With Gilles Blanchard and Pierre Neuvial. Annals of Statistics.  Vol. 48, No. 3, 1281-1303, 2020. [pdf](BNR2020_published.pdf). [Supplement](BNR2020-supp_published.pdf). [R-package](https://github.com/pneuvial/sanssouci).
 
-##### Published/Accepted (-2019)
+##### Published/Accepted (start-2019)
 
 (*) Discussion of Covariate‐assisted ranking and screening for large‐scale two‐sample inference. J. R. Stat. Soc. B. Vol. 81, 187-234, by T. Tony Cai, Wenguang Sun and Weinan Wang, 2019. [pdf](DiscussionRoquain_CARS.pdf).  [Link](https://doi.org/10.1111/rssb.12304)
 
